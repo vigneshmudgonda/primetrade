@@ -128,6 +128,4 @@ This README includes:
 
 ---
 
-If you want, I can also **write a small "Admin Panel" note in README** explaining how to access admin-only routes in the frontend dashboard so it’s completely submission-ready.  
 
-Do you want me to add that?
